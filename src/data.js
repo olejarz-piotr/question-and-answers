@@ -1,33 +1,28 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
-    info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+    title: "How many teams are there in the NBA?",
+    info: "The NBA is a collection of 30 teams, broken down by two conferences with three divisions apiece.",
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
-    info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+    title: "Who are some of the best players in NBA history?",
+    info: "The NBA’s list of all-time Legends continues to grow with each new generation, boasting names like Michael Jordan, Bill Russell, Kareem Abdul-Jabbar, Wilt Chamberlain, Magic Johnson, Larry Bird, Oscar Robertson, John Havlicek, Rick Barry, John Stockton, Karl Malone, Elgin Baylor, David Robinson, Julius Erving, Charles Barkley and many more.",
   },
   {
     id: 3,
-    title: 'What is BankID?',
-    info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+    title: "How can I watch NBA games?",
+    info: "NBA games are available on television in more than 200 countries around the world, including hundreds of national broadcasts in the USA every year on ABC, ESPN, TNT and NBA TV.",
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
-    info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+    title: "How many players are on a NBA roster?",
+    info: "Each NBA team can have a maximum of 15 players, 13 of which can be active each game.",
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
-    info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+    title: "How long is the shot clock?",
+    info: "The shot clock is 24 seconds. Starting in the 2018-19 season, the shot clock will reset to 14 seconds on offensive rebounds.",
   },
-]
+];
 export default questions
